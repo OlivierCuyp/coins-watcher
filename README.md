@@ -6,4 +6,4 @@ and put it on Elasticsearch.
 
 ## Environment variables
 
-`ELASTICHSEARCH_URL` (e.g.: http://elasticsearch:9200)
+`ELASTICSEARCH_URL` (e.g.: http://elasticsearch:9200)
