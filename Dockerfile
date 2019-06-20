@@ -8,3 +8,4 @@ COPY ./package-lock.json /var/www/package-lock.json
 
 RUN npm install
 
+CMD [ "npm", "start" ]
